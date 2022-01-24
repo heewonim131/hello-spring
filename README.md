@@ -1,5 +1,6 @@
 # hello-spring
-김영한 개발자님의 [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/스프링-입문-스프링부트#) 강의 실습용 저장소
+- 김영한 개발자님의 [스프링 입문 강의](https://www.inflearn.com/course/스프링-입문-스프링부트#) 실습용 저장소 입니다.<br>
+- [강의 자료를 정리한 블로그 주소](https://velog.io/@heewonim/series/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%9D%98-%EC%A0%95%EB%A6%AC) 입니다.
 
 ### 프로젝트 환경설정
 - 프로젝트 생성
